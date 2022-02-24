@@ -1,0 +1,15 @@
+{
+  "name": "civi_teste_api",
+  "version": "1.0.0",
+  "description": "Api de teste para Civi",
+  "main": "App.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ruan Pissinati",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  }
+}
